@@ -1,1 +1,8 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+## My attributes ##
+
+### Programming Languages ###
+_Javascript_, _Python_, and *Java*
+
+#### Others ####
+_Passionate_, _Resilient_, _Tough_, **Bold** and **Fun**
